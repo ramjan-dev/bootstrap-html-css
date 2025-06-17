@@ -1,0 +1,37 @@
+/*All Common Css Start*/
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h5,h6,p{
+   margin: 0; 
+   padding: 0;
+   line-height: 0.8;
+
+}
+ul,ol{
+    list-style: none;
+}
+/*All Common Css End*/
+
+
+ /*Header Part Start */
+ /*Header Part End*/
+
+ /*Header Part Start */
+ /*Header Part End*/
+
+ /*Header Part Start */
+ /*Header Part End*/
+
+ /*Header Part Start */
+ /*Header Part End*/
+
+  /*Header Part Start */
+ /*Header Part End*/
